@@ -1,5 +1,5 @@
 # CheatCodePDF-GeekForGeeks
-here i have uploaded the programs which are in the CheatCode Pdf provided by GeeksForGeeks.
+here i have uploaded the programs which are in the CheatCode Book Pdf provided by GeeksForGeeks.
 
 You can download the CheatCode Book PDF from the below link 
 
